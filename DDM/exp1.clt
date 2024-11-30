@@ -1,0 +1,7 @@
+method cs
+set d 0
+set sv 0
+set szr 0
+format RESPONSE TIME
+load phase3.dat
+log p3.logt
